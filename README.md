@@ -16,7 +16,7 @@
  HazeGen.py is the program for synthesizing haze images  
  The training program is modified from AOD-Net: https://github.com/TheFairBear/PyTorch-Image-Dehazing
  
- Todo: (1) Version-2
+ Todo: (1) Version-2   
        (2) Documents for more details
  
 
