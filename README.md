@@ -16,6 +16,9 @@
  HazeGen.py is the program for synthesizing haze images  
  The training program is modified from AOD-Net: https://github.com/TheFairBear/PyTorch-Image-Dehazing
  
+ Todo: (1) Version-2
+       (2) Documents for more details
+ 
 
  Reference:  
  [1] Real images in partial nephrectomy in da Vinci surgery. Website: hamlyn.doc.ic.ac.uk/vision/  
