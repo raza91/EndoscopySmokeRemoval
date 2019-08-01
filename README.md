@@ -1,5 +1,7 @@
 # EndoscopySmokeRemoval
  A small but interesting research on medical endoscope
+ 
+ Our method compared with other methods
 ![image](https://github.com/ColaBreadQAQ/EndoscopySmokeRemoval/blob/master/example/example.gif)
  Original: original haze images
  DC: Dark Channel[1]
