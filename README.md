@@ -17,7 +17,7 @@
  The training program is modified from AOD-Net: https://github.com/TheFairBear/PyTorch-Image-Dehazing
  
  Todo:    
- (1) Version-2   Codes and results will be optimized    
+ (1) Version-2: Codes and results will be optimized    
  (2) Documents for more details
  
 
