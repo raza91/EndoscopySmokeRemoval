@@ -1,6 +1,8 @@
 # EndoscopySmokeRemoval
  A small but interesting research on medical endoscope
  
+ Codes and other documents are coming soon!
+ 
  Our method compared with other methods
 ![image](https://github.com/ColaBreadQAQ/EndoscopySmokeRemoval/blob/master/example/example.gif)
  Original: original haze images  
