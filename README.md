@@ -18,8 +18,8 @@
  
  Todo:    
  (1) Version-2: Codes and results will be optimized    
- (2) Documents for more details
- 
+ (2) Documents for more details   
+ (3) Add a module to determine whether smoke is produced 
 
  Reference:  
  [1] Real images in partial nephrectomy in da Vinci surgery. Website: hamlyn.doc.ic.ac.uk/vision/  
